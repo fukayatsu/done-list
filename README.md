@@ -23,5 +23,10 @@ $ bundle install
 # usage
 
 ```
-bundle exec ruby done_list.rb
+$ bundle exec ruby done_list.rb
+
+or
+
+alias donelist='/bin/bash -lc "cd ~/github/done-list && bundle exec ruby done_list.rb"'
+$ donelist
 ```
