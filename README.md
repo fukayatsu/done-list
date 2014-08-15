@@ -3,7 +3,7 @@ done-list
 
 その日やったことをesaにコピペしやすくするツール
 
-※ 24時間以内に更新された && assined && closedなissueをリポジトリ毎にlist
+※ 24時間以内に更新された購読中のIssue/PRをリポジトリ毎にlist
 
 # setup
 
